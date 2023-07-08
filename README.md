@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @royavi21
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 👀 I’m interested in coding but I can't.
+- ✨ I’m currently learning nothing 
 
 <!---
 royavi21/royavi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
