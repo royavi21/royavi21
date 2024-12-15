@@ -18,11 +18,10 @@ I'm a passionate **Developer** with experience in **python, C# & Web**. I love t
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
-### [PORTFOLIO]([project_1_link](https://royavi21.github.io/Avijit_Portfolio/))
+### [PORTFOLIO]([https://royavi21.github.io/Avijit_Portfolio/])
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
