@@ -1,7 +1,5 @@
 # Hi there, I'm Avijit Roy 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate **Development** with experience in **python, C# & Web**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
