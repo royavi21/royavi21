@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Development** with experience in **python, C# & Web**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Developer** with experience in **python, C# & Web**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **C# for windows form application**
 - 🔭 Working on: **Exploring things**
