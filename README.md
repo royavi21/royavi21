@@ -37,7 +37,7 @@ I'm a passionate **Developer** with experience in **python, C# & Web**. I love t
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**([https://www.linkedin.com/in/avijit-roy-avi777/])
+- **[LinkedIn]**(https://www.linkedin.com/in/avijit-roy-avi777/)
 
 
 
