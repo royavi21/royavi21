@@ -24,7 +24,7 @@ I'm a passionate **Developer** with experience in **python, C# & Web**. I love t
 ### [PORTFOLIO](https://royavi21.github.io/Avijit_Portfolio/)
 
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[Portfolio]** is a **[brief and overview about myself]** built with **[HTML, CSS and JS]**. This project showcases my skills in **[Utilized those turms]**. You can check out the repository [here](https://royavi21.github.io/Avijit_Portfolio/).
 
 
 ### [CGPA CALCULATOR](https://royavi21.github.io/Diploma_CGPA_Calculator/)
