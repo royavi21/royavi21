@@ -23,16 +23,8 @@ I'm a passionate **Developer** with experience in **python, C# & Web**. I love t
 
 ### [PORTFOLIO](https://royavi21.github.io/Avijit_Portfolio/)
 
-![Project 1 Screenshot](https://github.com/royavi21/project_picture/blob/main/Screenshot%202024-12-15%20223933.png)
-
-**[Portfolio]** is a **[brief and overview about myself]** built with **[HTML, CSS and JS]**. This project showcases my skills in **[Utilized those turms]**. You can check out the repository [here](https://royavi21.github.io/Avijit_Portfolio/).
-
-
 
 ### [CGPA CALCULATOR](https://royavi21.github.io/Diploma_CGPA_Calculator/)
-
-![Project 1 Screenshot](https://github.com/royavi21/project_picture/blob/main/Screenshot%202024-12-15%20232351.png)
-**[CGPA Calculator]** is a **[calculator for diploma students only]** built with **[HTML | CSS | JS]**. This project demonstrates my ability to **[get cgpa]**. You can check out the repository [here](https://royavi21.github.io/Diploma_CGPA_Calculator/).
 
 
 ## Get in Touch 📬
