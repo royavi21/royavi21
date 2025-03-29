@@ -15,8 +15,7 @@ I'm a passionate **Developer** with experience in **python, C# & Web**. I love t
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python]([https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue]
-![Python]([https://camo.githubusercontent.com/d2080d24775bd0fd90b63e3bfd6d2e6b14a83bb5a79b051f83105abcaa0f4d1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465]
+![Python]([https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue]![Python]
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
