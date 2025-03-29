@@ -1,7 +1,8 @@
+<!---
 ### Hi there 👋, I'm Avvijit Roy
 #### Web Developer | Ethical Hacker
 ![Web Developer | Ethical Hacker](https://pbs.twimg.com/profile_banners/1906022403513495552/1743266303/600x200)
-
+--->
 <h1 align="center">Hi 👋, I'm Avijit Roy</h1>
 <h3 align="center">A passionate frontend developer and ethical hacker from Bangladesh</h3>
 
