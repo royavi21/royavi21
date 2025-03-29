@@ -28,11 +28,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royavi21&show_icons=true&locale=en&layout=compact" alt="royavi21" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royavi21&show_icons=true&locale=en&layout=compact" alt="royavi21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royavi21&show_icons=true&locale=en" alt="royavi21" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royavi21&show_icons=true&locale=en" alt="royavi21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royavi21&" alt="royavi21" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royavi21&" alt="royavi21" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
