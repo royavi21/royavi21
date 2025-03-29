@@ -2,25 +2,37 @@
 #### Web Developer | Ethical Hacker
 ![Web Developer | Ethical Hacker](https://pbs.twimg.com/profile_banners/1906022403513495552/1743266303/600x200)
 
-Hi, I'm Avijit Roy, a Mechatronics Engineer passionate about system integration, automation, and cybersecurity. I have experience in web development, Ethical Hacking, Software Development, and digital marketing, and I love working on projects that blend technology, security, and innovation.
+<h1 align="center">Hi 👋, I'm Avijit Roy</h1>
+<h3 align="center">A passionate frontend developer and ethical hacker from Bangladesh</h3>
 
-Skills: HTML / CSS / JS / PYTHON / JAVA / C#
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royavi21" alt="royavi21" /></a> </p>
 
-- 🔭 I’m currently working on Software Development 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web, Cyber Secu. and Software 
+- 🔭 I’m currently working on **Software Development**
 
+- 🌱 I’m currently learning **Python**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/royavi21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gray-hat-ovik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/heheboy00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Avijit_ry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/rojen777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://royavi21.github.io/Avijit_Portfolio/)  
+- 👯 I’m looking to collaborate on **Github**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 👨‍💻 All of my projects are available at [https://royavi21.github.io/Avijit_Portfolio/](https://royavi21.github.io/Avijit_Portfolio/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=royavi21)](https://github.com/ryo-ma/github-profile-trophy)
+- 💬 Ask me about **Web, Cyber, Software**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royavi21)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **aviroy2005@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=royavi21&show_icons=true)  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qNFhSEseU1y4s0CR7uFVlQBkwdec25Fh/view?usp=sharing](https://drive.google.com/file/d/1qNFhSEseU1y4s0CR7uFVlQBkwdec25Fh/view?usp=sharing)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=royavi21)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/avijit_ry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avijit_ry" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gray-hat-ovik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gray-hat-ovik" height="30" width="40" /></a>
+<a href="https://fb.com/heheboy00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heheboy00" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royavi21&show_icons=true&locale=en&layout=compact" alt="royavi21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royavi21&show_icons=true&locale=en" alt="royavi21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royavi21&" alt="royavi21" /></p>
