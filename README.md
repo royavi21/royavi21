@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aviroy2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qNFhSEseU1y4s0CR7uFVlQBkwdec25Fh/view?usp=sharing](https://drive.google.com/file/d/1qNFhSEseU1y4s0CR7uFVlQBkwdec25Fh/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1qNFhSEseU1y4s0CR7uFVlQBkwdec25Fh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
