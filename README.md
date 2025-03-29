@@ -14,7 +14,7 @@
 
 > 👯 I’m looking to collaborate on **Github**
 
-> 👨‍💻 All of my projects are available at [click here](https://royavi21.github.io/Avijit_Portfolio/)
+> 👨‍💻 My portfolio is available at [here](https://royavi21.github.io/Avijit_Portfolio/)
 
 > 💬 Ask me about **Web, Cyber, Software**
 
