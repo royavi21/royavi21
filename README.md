@@ -35,7 +35,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royavi21&" alt="royavi21" /></p>
 
-![](https://komarev.com/ghpvc/?username=royavi21&color=blue)
+<div align="center">![](https://komarev.com/ghpvc/?username=royavi21&color=blue)</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
