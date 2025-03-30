@@ -23,7 +23,7 @@
 
 > 📄 Know about my experiences [click here](https://drive.google.com/file/d/1qNFhSEseU1y4s0CR7uFVlQBkwdec25Fh/view?usp=sharing)
 
-![](https://komarev.com/ghpvc/?username=royavi21&color=blue&style=plastic)
+<p align = "center">![](https://komarev.com/ghpvc/?username=royavi21&color=blue&style=plastic)</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <!--  
