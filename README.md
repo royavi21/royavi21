@@ -41,9 +41,11 @@
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white">
+<img src="https://img.shields.io/discord/1394736988497645649?style=for-the-badge&logo=hackerone&logoColor=white">
 
 </p>
 
+https://img.shields.io/discord/1394736988497645649
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royavi21&show_icons=true&locale=en&layout=compact" alt="royavi21" /></p>
@@ -57,7 +59,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/avijit_ry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avijit_ry" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gray-hat-ovik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gray-hat-ovik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gray-hat-avi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gray-hat-ovik" height="30" width="40" /></a>
 <a href="https://fb.com/heheboy00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heheboy00" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ovik777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ovik777" height="30" width="40"/></a>
 </p>
