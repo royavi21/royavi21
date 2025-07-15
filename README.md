@@ -41,11 +41,12 @@
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white">
-<img src="https://img.shields.io/discord/1394736988497645649?style=for-the-badge&logo=hackerone&logoColor=white">
+<!-- <img src="https://img.shields.io/discord/1394736988497645649?style=for-the-badge&logo=hackerone&logoColor=white"> -->
 
 </p>
+ 
 
-https://img.shields.io/discord/1394736988497645649
+
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royavi21&show_icons=true&locale=en&layout=compact" alt="royavi21" /></p>
