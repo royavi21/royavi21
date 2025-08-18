@@ -53,8 +53,9 @@
  <img src="https://img.shields.io/discord/1394736988497645649?style=for-the-badge&logo=hackerone&logoColor=white"> -->
 
 </p>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royavi21&show_icons=true&locale=en&layout=compact" alt="royavi21" /></p>
 
