@@ -1,7 +1,7 @@
 <!---
 ### Hi there 👋, I'm Avvijit Roy
 #### Web Developer | Ethical Hacker
--->
+
 <img src="https://camo.githubusercontent.com/64fde10e402d3aaab6bdf83b74dd7275e18ec28ba031fa0fdb0c48990ab963d3/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966">
 
 <h1 align="center">Hi 👋, I'm Avijit Roy</h1>
@@ -22,6 +22,28 @@
 > 📫 Reach me through **aviroy2005@gmail.com**
 
 > 📄 Know about my experiences [click here](https://drive.google.com/file/d/1qNFhSEseU1y4s0CR7uFVlQBkwdec25Fh/view?usp=sharing)
+-->
+
+## Hey I'm Avijit 👋
+
+```json
+{
+  "job": "Software engineer",
+  "birthday": "2005-10-24",
+  "country": "Bangladesh",
+  "city": "Gopalganj",
+  "stack": ["Javascript", "Python", "C", "Dart", "BASH", "..."],
+  "interest": ["Tech", "Running", "Cycling", "Video Games", "..."]
+}
+```
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/cyprieng/refs/heads/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/cyprieng/refs/heads/github-breakout/images/breakout-light.svg">
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/cyprieng/refs/heads/github-breakout/images/breakout-light.svg">
+</picture>
 
 ![](https://komarev.com/ghpvc/?username=royavi21&color=blue&style=plastic)
 <h3 align="center">Languages and Tools:</h3>
