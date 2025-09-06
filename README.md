@@ -28,7 +28,7 @@
 
 ```json
 {
-  "Title": "CSE Student",
+  "work": "CSE Student",
   "birthday": "2005-10-24",
   "country": "Bangladesh",
   "city": "Gopalganj",
