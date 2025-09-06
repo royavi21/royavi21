@@ -28,7 +28,7 @@
 
 ```json
 {
-  "job": "Software engineer",
+  "Title": "CSE Student",
   "birthday": "2005-10-24",
   "country": "Bangladesh",
   "city": "Gopalganj",
@@ -81,10 +81,11 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royavi21&show_icons=true&locale=en&layout=compact" alt="royavi21" /></p>
 
+<!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royavi21&show_icons=true&locale=en" alt="royavi21" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royavi21&" alt="royavi21" /></p>
-
+-->
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
