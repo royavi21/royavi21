@@ -45,7 +45,7 @@
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/cyprieng/refs/heads/github-breakout/images/breakout-light.svg">
 </picture>
 
-![](https://komarev.com/ghpvc/?username=royavi21&color=blue&style=plastic)
+
 <h3 align="center">Languages and Tools:</h3>
 <!-- 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -95,7 +95,8 @@
 <a href="https://www.leetcode.com/ovik777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ovik777" height="30" width="40"/></a>
 </p>
 <p  align="center">
-
+  
+![](https://komarev.com/ghpvc/?username=royavi21&color=blue&style=plastic)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CSWy9vFm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aviroy2005@gmail.com) 
 
  
