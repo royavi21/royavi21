@@ -29,7 +29,6 @@
 ```json
 {
   "work": "CSE Student",
-  "birthday": "2005-10-24",
   "country": "Bangladesh",
   "city": "Gopalganj",
   "stack": ["Javascript", "Python", "C", "Dart", "BASH", "..."],
