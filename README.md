@@ -22,6 +22,7 @@
 > 📫 Reach me through **aviroy2005@gmail.com**
 
 > 📄 Know about my experiences [click here](https://drive.google.com/file/d/1qNFhSEseU1y4s0CR7uFVlQBkwdec25Fh/view?usp=sharing)
+  "city": "Gopalganj",
 -->
 
 ## Hey I'm Avijit 👋
@@ -30,7 +31,6 @@
 {
   "work": "CSE Student",
   "country": "Bangladesh",
-  "city": "Gopalganj",
   "stack": ["Javascript", "Python", "C", "Dart", "BASH", "..."],
   "interest": ["Tech", "Running", "Cycling", "Video Games", "..."]
 }
